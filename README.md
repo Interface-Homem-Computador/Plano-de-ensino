@@ -1,53 +1,30 @@
-## Aula 01 — Abertura da Disciplina: Interface Homem-Computador
+# Plano de Ensino Ajustado: Interface Homem-Computador
 
-### 1. Apresentação do Professor
-- Nome, formação acadêmica e área de atuação
-- Experiência profissional e acadêmica relacionada à Interface Homem-Computador
-- Forma de condução das aulas e postura em sala
-- Canais de comunicação com os alunos
+**Professor:** Prof. Karan Luciano Silva di Pernis  
+**Carga Horária:** 60 horas  
+**Estrutura:** 20 encontros de 3 horas  
 
-### 2. Apresentação dos Alunos
-- Nome
-- Curso e período
-- Expectativas em relação à disciplina
-- Experiência prévia com design de interfaces, usabilidade ou desenvolvimento de sistemas
+## Cronograma de Aulas
 
-### 3. Apresentação da Disciplina
-- O que é Interface Homem-Computador (IHC)
-- Importância da IHC na Computação e no mercado profissional
-- Relação da disciplina com outras áreas do curso
-- Competências e habilidades que serão desenvolvidas
-
-### 4. Plano de Ensino
-- Objetivos gerais da disciplina
-- Conteúdos programáticos principais
-- Organização dos temas ao longo do semestre
-
-### 5. Metodologia de Ensino
-- Aulas expositivas dialogadas
-- Estudos de caso
-- Atividades práticas e análises de interfaces
-- Trabalhos individuais e/ou em grupo
-- Uso de ferramentas digitais e prototipação
-
-### 6. Critérios de Avaliação
-- Tipos de avaliação (provas, trabalhos, atividades práticas, participação)
-- Pesos de cada avaliação
-- Critérios de correção
-- Política de recuperação e revisão de avaliações
-
-### 7. Cronograma Geral
-- Quantidade de aulas
-- Datas previstas para avaliações
-- Marcos importantes da disciplina (seminários, entregas de trabalhos)
-
-### 8. Expectativas da Disciplina
-- Compromisso com presença e participação
-- Postura ética e profissional
-- Responsabilidade com prazos
-- Colaboração e respeito em sala de aula
-
-### 9. Encerramento da Aula
-- Espaço para dúvidas
-- Alinhamento final com a turma
-- Orientações para a próxima aula
+| Aula | Tema / Conteúdo |
+| :--- | :--- |
+| **01** | **Abertura da Disciplina:** Apresentação do professor e dos alunos. Apresentação do plano de ensino, metodologia, critérios de avaliação, cronograma e expectativas da disciplina. |
+| **02** | **Fundamentos de Interface Homem-Computador:** Conceitos básicos, histórico e importância da IHC. |
+| **03** | **Modelos da Interação Humano-Computador:** Modelos conceituais, modelos mentais e modelos de interação. |
+| **04** | **Aspectos Humanos I:** Fisiologia humana aplicada à interação (visão, audição e motricidade). |
+| **05** | **Aspectos Humanos II:** Cognição humana, percepção, memória, atenção e carga cognitiva. |
+| **06** | **Modelagem do Usuário I:** Conceitos, princípios e teorias de modelagem do usuário. |
+| **07** | **Modelagem do Usuário II:** Técnicas de coleta de dados, personas e cenários de uso. |
+| **08** | **Tecnologias de Interação I:** Dispositivos de entrada e saída. |
+| **09** | **Tecnologias de Interação II:** Estilos de interação e padrões de interface. |
+| **10** | **Tecnologias de Interação III:** Linguagens, ferramentas e frameworks de apoio ao design de interfaces. |
+| **11** | **Usabilidade I:** Conceitos, definições, heurísticas e normas (ISO). |
+| **12** | **Usabilidade II:** Avaliação de usabilidade e métodos de inspeção. |
+| **13** | **Usabilidade III:** Testes de usabilidade com usuários e análise de resultados. |
+| **14** | **Desenvolvimento de Sistemas Interativos I:** Processos, metodologias e ciclos de vida. |
+| **15** | **Desenvolvimento de Sistemas Interativos II:** Prototipação de baixa e alta fidelidade. |
+| **16** | **Aspectos Sociais da IHC:** Impactos sociais da tecnologia e inclusão digital. |
+| **17** | **Aspectos Organizacionais da IHC:** Sistemas interativos em ambientes organizacionais. |
+| **18** | **Tendências em IHC:** Interfaces naturais, acessibilidade e interação com sistemas inteligentes. |
+| **19** | **AVALIAÇÃO FINAL:** Avaliação teórica e/ou prática sobre os conteúdos da disciplina. |
+| **20** | **Encerramento:** Devolutiva das avaliações, fechamento de notas e discussão final da disciplina. |
