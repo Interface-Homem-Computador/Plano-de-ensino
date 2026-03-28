@@ -8,13 +8,13 @@
 
 | Aula | Tema / Conteúdo |
 | :--- | :--- |
-| **01** | **Abertura da Disciplina:** Apresentação do professor e dos alunos. Apresentação do plano de ensino, metodologia, critérios de avaliação, cronograma e expectativas da disciplina. |
-| **02** | **Fundamentos de Interface Homem-Computador:** Conceitos básicos, histórico e importância da IHC. |
-| **03** | **Modelos da Interação Humano-Computador:** Modelos conceituais, modelos mentais e modelos de interação. |
+| **01** | **Abertura da Disciplina:** Apresentação do professor e dos alunos. Apresentação do plano de ensino, metodologia, critérios de avaliação, cronograma e expectativas da disciplina. v |
+| **02** | **Fundamentos de Interface Homem-Computador:** Conceitos básicos, histórico e importância da IHC. v |
+| **03** | **Modelos da Interação Humano-Computador:** Modelos conceituais, modelos mentais e modelos de interação. v|
 | **04** | **Aspectos Humanos I:** Fisiologia humana aplicada à interação (visão, audição e motricidade). |
-| **05** | **Aspectos Humanos II:** Cognição humana, percepção, memória, atenção e carga cognitiva. |
-| **06** | **Modelagem do Usuário I:** Conceitos, princípios e teorias de modelagem do usuário. |
-| **07** | **Modelagem do Usuário II:** Técnicas de coleta de dados, personas e cenários de uso. |
+| **05** | **Aspectos Humanos II:** Cognição humana, percepção, memória, atenção e carga cognitiva. v|
+| **06** | **Modelagem do Usuário I:** Conceitos, princípios e teorias de modelagem do usuário. v|
+| **07** | **Modelagem do Usuário II:** Técnicas de coleta de dados, personas e cenários de uso. v|
 | **08** | **Tecnologias de Interação I:** Dispositivos de entrada e saída. |
 | **09** | **Tecnologias de Interação II:** Estilos de interação e padrões de interface. |
 | **10** | **Tecnologias de Interação III:** Linguagens, ferramentas e frameworks de apoio ao design de interfaces. |
